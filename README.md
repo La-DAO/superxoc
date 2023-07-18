@@ -4,7 +4,7 @@ Este proyecto es creado con [Create React App](https://github.com/facebook/creat
 Tambien es posible por medio de [Superfluid Finance](https://app.superfluid.finance/)
 
 
-Las funcionaes que se habilitan son:
+Las funciones que se habilitan son:
 - approve
 - upgrade
 - downgrade
