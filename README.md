@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Interactuando con Super XOC (XOCx)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es creado con [Create React App](https://github.com/facebook/create-react-app).
+Tambien es posible por medio de [Superfluid Finance]([https://github.com/facebook/create-react-app](https://app.superfluid.finance/))
+Las funcionaes que se habilitan son:
+- approve
+- upgrade
+- downgrade
+- createFlow
+- editFlow
+- deleteFlow
 
 ## Available Scripts
 
